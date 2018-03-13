@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/projet s2 map 2 hiver.unity
+  isLoaded: 1
+  isActive: 1
